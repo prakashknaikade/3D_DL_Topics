@@ -191,7 +191,7 @@
     - DiffusionDet [[paper](https://arxiv.org/abs/2211.09788)]
 
 ## NeRF
-- Neural Radiance Fields: Past, Present, and Future [[link](https://lexica.art/](https://arxiv.org/pdf/2304.10050.pdf)]
+- Neural Radiance Fields: Past, Present, and Future [[link](https://arxiv.org/pdf/2304.10050.pdf)]
 - State of the Art on Neural Rendering [[link](https://www.neuralrender.com/assets/downloads/TewariFriedThiesSitzmannEtAl_EG2020STAR.pdf)]
 - Awesome Neural Radiance Fields [[link](https://github.com/awesome-NeRF/awesome-NeRF)]
   
