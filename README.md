@@ -22,7 +22,7 @@
     - Introduction to Reinforcement Learning with David Silver [[youtube](https://youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)] [[website](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)]
 
 ## Mathematics
-
+0. Overview ([[cheatsheet](https://www.mit.edu/~amidi/teaching/)])
 1. Linear Algebra ([[notes](http://cs229.stanford.edu/section/cs229-linalg.pdf)][[practice questions](https://www.geeksforgeeks.org/linear-algebra-gq/)])
     - 3Blue1Brown essence of linear algebra [[youtube](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)]
     - Gilbert Strang’s lectures on Linear Algebra [[link](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)] [[youtube](https://youtube.com/playlist?list=PL49CF3715CB9EF31D)]
@@ -31,6 +31,7 @@
         - Linear Dependence and Span
         - Eigendecomposition - Eigenvalues and Eigenvectors
         - Singular Value Decomposition [[blog](https://medium.com/vlgiitr/eli5-singular-value-decomposition-svd-955c151f9907)]
+        - PCA [[blog](https://arxiv.org/pdf/1404.1100.pdf)]
         
 2. Probability and Statistics ([[notes](http://www.mxawng.com/stuff/notes/stat110.pdf)][[youtube series](https://www.youtube.com/user/joshstarmer)])
     - Harvard Statistics 110: Probability [[link](https://projects.iq.harvard.edu/stat110/home)] [[youtube](https://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]
