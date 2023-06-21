@@ -31,7 +31,7 @@
         - Linear Dependence and Span
         - Eigendecomposition - Eigenvalues and Eigenvectors
         - Singular Value Decomposition [[blog](https://medium.com/vlgiitr/eli5-singular-value-decomposition-svd-955c151f9907)]
-        - PCA [[blog](https://arxiv.org/pdf/1404.1100.pdf)[blog](https://math.stackexchange.com/questions/3869/what-is-the-intuitive-relationship-between-svd-and-pca/3871#3871)]
+        - PCA [[blog](https://arxiv.org/pdf/1404.1100.pdf)][[blog](https://math.stackexchange.com/questions/3869/what-is-the-intuitive-relationship-between-svd-and-pca/3871#3871)]
         
 2. Probability and Statistics ([[notes](http://www.mxawng.com/stuff/notes/stat110.pdf)][[youtube series](https://www.youtube.com/user/joshstarmer)])
     - Harvard Statistics 110: Probability [[link](https://projects.iq.harvard.edu/stat110/home)] [[youtube](https://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)]
